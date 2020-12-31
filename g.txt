@@ -48,5 +48,5 @@ Ethernet adapter Bluetooth Network Connection:
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
 "hi" 
-"hello2" 
+
 
