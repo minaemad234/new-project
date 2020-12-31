@@ -46,7 +46,10 @@ Wireless LAN adapter Wi-Fi:
 Ethernet adapter Bluetooth Network Connection:
 
    Media State . . . . . . . . . . . : Media disconnected
+<<<<<<< HEAD
    Connection-specific DNS bs gg mm   ds
+
+>>>>>>> mon
 
 
 
