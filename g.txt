@@ -47,7 +47,7 @@ Ethernet adapter Bluetooth Network Connection:
 
    Media State . . . . . . . . . . . : Media disconnected
 
-   Connection-specific DNS bs gg mm  
+   Connection-specific DNS bs gg   
 
 
 
